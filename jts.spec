@@ -1,3 +1,4 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:          jts
 Version:       1.13
 Release:       2%{?dist}
