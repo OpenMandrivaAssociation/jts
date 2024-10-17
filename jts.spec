@@ -4,7 +4,7 @@ Version:       1.13
 Release:       2%{?dist}
 Summary:       Java Topology Suite
 License:       LGPLv2+
-URL:           http://sourceforge.net/projects/jts-topo-suite
+URL:           https://sourceforge.net/projects/jts-topo-suite
 # sh jts-create-tarball.sh < VERSION >
 Source0:       %{name}-%{version}.tar.xz
 Source1:       %{name}-create-tarball.sh
